@@ -1,0 +1,10 @@
+This post talks about how to fix a git error.
+
+error: src refspec master does not match any error: failed to push some refs to ‘url.git’.
+
+Possible causes for this error for below use cases
+
+Create and commit changes to the remote repository
+Push existing repository from the command line
+Here are steps and commands for creating and clone and committing repository
+
